@@ -33,6 +33,8 @@ The main item currency. These can be invested in [The Capital](#the_capital) sto
 
 Themed content with unique mechanics (exploration, puzzles, PvP, dungeons). Some stays accessible anytime and others are available during a date period only (e.g. Halloween, Winter Holiday). Players can get access to these through specific locations at [The Capital](#the_capital) or crafting Portal Keys.
 
+[<img src="Imgs/Thumbnail_Event_Halloween.png"/>](https://youtu.be/pUv9GnYA6K4)
+
 <hr>
 
 ## Advanced content
