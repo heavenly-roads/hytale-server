@@ -15,6 +15,8 @@ Server offers both vanilla experience (Adventure, Exploration) and custom conten
 
 A world that works as a lobby and meeting point, it contains most of the server custom content. [Coins](#item_coins) can be invested here for the players to obtain elements, decorations, weapons and more content. There are themed areas and local micro-events, this place grows as the server evolves adding new locations and content.
 
+<img height="150px" src="Imgs/Thumbnail_TheCapital.png"/>
+
 <hr>
 
 <a id="item_coins"></a>
@@ -33,7 +35,12 @@ The main item currency. These can be invested in [The Capital](#the_capital) sto
 
 Themed content with unique mechanics (exploration, puzzles, PvP, dungeons). Some stays accessible anytime and others are available during a date period only (e.g. Halloween, Winter Holiday). Players can get access to these through specific locations at [The Capital](#the_capital) or crafting Portal Keys.
 
-[<img src="Imgs/Thumbnail_Event_Halloween.png"/>](https://youtu.be/pUv9GnYA6K4)
+<div align="center">
+
+[<img height="150px" src="Imgs/Thumbnail_Event_Halloween.png"/>](https://youtu.be/pUv9GnYA6K4)
+  
+<i>Click on the images to watch an event showcase video.</i>
+</div>
 
 <hr>
 
