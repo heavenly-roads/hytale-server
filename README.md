@@ -6,7 +6,7 @@ Server custom content information.
 
 Server offers both vanilla experience (Adventure, Exploration) and custom content (Items, NPCs, Minigames, Events). Custom content goal is to offer extra mechanics and content into a balanced environment - it doesn't relay on adding end-game content or speed up vanilla progression. Server balance is designed for both new and experienced players.
 
-## Primordial content
+## Basic content
 
 <a id="the_capital"></a>
 * #### The Capital
