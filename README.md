@@ -16,12 +16,18 @@ A world that works as a lobby and meeting point, it contains most of the server 
 
 <a id="item_coins"></a>
 * #### Coins
+
+<img src="Imgs/Currency_Coin.png"/>
+
 The main item currency. These can be invested in [The Capital](#the_capital) stores and craft stations to get elements, items, resources and other custom content. Coins works as any other item, a huge stack amount is admited so best practice for the players is to keep these inside their backpack. Coins can be earned from [Events](#gamemodes) and completing [Tasks](#tasks).
 
 <hr>
 
 <a id="gamemodes"></a>
 * #### Gamemodes and Events
+
+<img src="Imgs/Portal_Key.png"/>
+
 Themed content with unique mechanics (exploration, puzzles, PvP, dungeons). Some stays accessible anytime and others are available during a date period only (e.g. Halloween, Winter Holiday). Players can get access to these through specific locations at [The Capital](#the_capital) or crafting Portal Keys.
 
 <hr>
@@ -30,12 +36,18 @@ Themed content with unique mechanics (exploration, puzzles, PvP, dungeons). Some
 
 <a id="item_coins"></a>
 * #### Tasks
+
+<img src="Imgs/Task.png"/>
+
 Objectives that players can complete to earn rewards. Tasks can be both generic activities or [Events](#gamemodes) related.
 
 <hr>
 
 <a id="weapons"></a>
 * #### Weapons
+
+<img src="Imgs/Sword.png"/>
+
 Most of custom weapons brings unique status effects to make combat even more interesting without relying on Mana and Runes equipment (e.g. a modified sword with attached batteries can electrocute the enemy target). Weapons can be obtained at [The Capital](#the_capital) or as rewards from different sources.
 
 Weapons are designed to bring players extra combat mechanics without the need to modify their custom builds but also being balanced for both server and vanilla content.
@@ -46,7 +58,7 @@ Weapons are designed to bring players extra combat mechanics without the need to
 
 <hr>
 
-<a id="item_coins"></a>
+<a id="runes"></a>
 * #### Runes and Abilities
 (WIP)
 
