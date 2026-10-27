@@ -39,7 +39,7 @@ Themed content with unique mechanics (exploration, puzzles, PvP, dungeons). Some
 
 * #### Tasks
 
-Objectives that players can complete to earn rewards. Tasks can be both generic activities or [Events](#gamemodes) related.
+Objectives that players can complete to earn rewards from both generic activities or [Events](#gamemodes) related. Tasks works as items for now.
 
 <hr>
 
