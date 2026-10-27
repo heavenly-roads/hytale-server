@@ -1,4 +1,4 @@
-# Documentation: server custom content
+# Guide
 
 ## Introduction
 
@@ -24,13 +24,13 @@ Themed content with unique mechanics (exploration, puzzles, PvP, dungeons). Some
 
 <hr>
 
+## Advanced content
+
 <a id="item_coins"></a>
 * #### Tasks
 Objectives that players can complete to earn rewards. Tasks can be both generic activities or [Events](#gamemodes) related.
 
 <hr>
-
-## Advanced content
 
 <a id="weapons"></a>
 * #### Weapons
@@ -50,6 +50,8 @@ Weapons are designed to bring players extra combat mechanics without the need to
 
 <hr>
 
-# Documentation: technical
+# Guide: technical
 
-* Supported languages: English, Spanish.
+Supported languages: English, Spanish.
+
+(WIP)
