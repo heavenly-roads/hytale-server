@@ -9,7 +9,10 @@ Server offers both vanilla experience (Adventure, Exploration) and custom conten
 ## Basic content
 
 <a id="the_capital"></a>
+<img src="Imgs/Capital.png"/>
+
 * #### The Capital
+
 A world that works as a lobby and meeting point, it contains most of the server custom content. [Coins](#item_coins) can be invested here for the players to obtain elements, decorations, weapons and more content. There are themed areas and local micro-events, this place grows as the server evolves adding new locations and content.
 
 <hr>
