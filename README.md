@@ -1,6 +1,6 @@
 # Guide
 
-Server custom content information.
+Server custom content information. Some parts of the content shown here are under development and are subject change.
 
 ## Introduction
 
@@ -26,7 +26,7 @@ A world that works as a lobby and meeting point, it contains most of the server 
 
 * #### Coins
 
-The main item currency. These can be invested in [The Capital](#the_capital) stores and craft stations to get elements, items, resources and other custom content. Coins works as any other item, a huge stack amount is admited so best practice for the players is to keep these inside their backpack. Coins can be earned from [Events](#gamemodes) and completing [Tasks](#tasks).
+The main item currency that can be earned from [Events](#gamemodes) and completing [Tasks](#tasks). These can be invested in [The Capital](#the_capital) stores and craft stations to get elements, items, resources and other custom content. Coins works as any other item, a huge stack amount is admited so best practice for players is to keep these inside their backpack.
 
 <hr>
 
@@ -57,6 +57,15 @@ Objectives that players can complete to earn rewards from both generic activitie
 
 <hr>
 
+<a id="world_events"></a>
+<img src="Imgs/World_Events.png"/>
+
+* #### World Events
+
+Dynamic events occurring in the Exploration world to bring extra rewards and action to the players adventure. These events runs taking into count nearby players and completion is completely optional.
+
+<hr>
+
 <a id="weapons"></a>
 <img src="Imgs/Weapon.png"/>
 
@@ -68,7 +77,7 @@ Weapons are designed to bring players extra combat mechanics without the need to
 
 * Void-imbued weapons
 
-(WIP) Compatible weapons can be imbued in Void to boost original weapon damage and status effect. No durability loss upon death. A new Void-related status effect is added. Void-imbued weapons cannot be repaired, so players will require to craft a new one after the durability reaches zero.
+Compatible weapons can be imbued in Void to boost original weapon damage and status effect. No durability loss upon death. A new Void-related status effect is added. Void-imbued weapons cannot be repaired, so players will require to craft a new one after the durability reaches zero.
 
 <hr>
 
