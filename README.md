@@ -62,7 +62,7 @@ Objectives that players can complete to earn rewards from both generic activitie
 
 * #### World Events
 
-Dynamic events occurring in the Exploration world to bring extra rewards and action to the players adventure. These events runs taking into count nearby players and completion is completely optional.
+Dynamic events occurring in different worlds to bring extra rewards and action to the players adventure. These events runs taking into count nearby players and completion is optional.
 
 <hr>
 
