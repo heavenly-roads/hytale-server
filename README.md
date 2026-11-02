@@ -17,6 +17,9 @@ A world that works as a lobby and meeting point, it contains most of the server 
 
 <div align="center">
 <img height="400px" src="Imgs/Thumbnail_TheCapital.png"/>
+
+<i>[Click here](#the_capital_technical) to read The Capital technical information</i>
+  
 </div>
 
 <hr>
@@ -107,9 +110,15 @@ Custom food and recipes to bring the player custom and unique status effects.
 
 # Guide: technical
 
+<a id="the_capital_technical"></a>
+<img src="Imgs/Capital.png"/>
 * #### The Capital
 
 A huge aerial landscape cluster formed by different floating islands which contains huge structures, towns and open lands. Its purpose is to work as an all-in-one server spawn: it is not designed to be a hall between game modes and world instances but to offer a centralized place for the entire server where players can explore, exchange items, chill, chat or relax after an adventure. This world offers a space with different themed areas and districts which includes modes selection, activities, stores, minigames, roleplay spaces and much more.
+
+<div align="center">
+<img height="400px" src="Imgs/Thumbnail_TheCapital.png"/>
+</div>
 
 <b>Aerial islands cluster</b>
 
