@@ -4,7 +4,9 @@ Server custom content information. Some parts of the content shown here are unde
 
 ## Introduction
 
-Server offers both vanilla experience (Adventure, Exploration) and custom content (Items, NPCs, Minigames, Events). Custom content goal is to offer extra mechanics and content into a balanced environment - it doesn't relay on adding end-game content or speed up vanilla progression. Server balance is designed for both new and experienced players.
+Main goal is to build a huge community grouped by adventurers, builders, fighters and others, everyone settled on a dynamic online environment. Worlds core mechanics are designed for a cooperative approach rather than PvP. However, there will be specific PvP modes.
+
+Server offers both vanilla experience (Adventure, Exploration) and custom content (Items, NPCs, Minigames, Events). Custom server content doesn't alter Hytale vanilla progression but offers extra parallel content into a balanced global setup designed for new or experienced players and different gameplay styles. Endgame content will never be forced here: non-accessible vanilla items will remain inaccessible to keep Hytale core progression. Instead, we offer original content.
 
 ## Basic content
 
