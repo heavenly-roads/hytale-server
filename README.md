@@ -107,11 +107,39 @@ Custom food and recipes to bring the player custom and unique status effects.
 
 # Guide: technical
 
-Supported languages: English, Spanish.
+* #### The Capital
+
+A huge aerial landscape cluster formed by different floating islands which contains huge structures, towns and open lands. Its purpose is to work as an all-in-one server spawn: it is not designed to be a hall between game modes and world instances but to offer a centralized place for the entire server where players can explore, exchange items, chill, chat or relax after an adventure. This world offers a space with different themed areas and districts which includes modes selection, activities, stores, minigames, roleplay spaces and much more.
+
+<b>Aerial islands cluster</b>
+
+Taking advantage of verticality for better navigation and POIs distribution, every place is handcrafted, detailed, modular and easy to modify / expand.
+
+<b>Lore</b>
+
+Extracted from their original worlds, these terrain fragments were conjoined at the center of the Skylands region. It is evolving by the purpose to serve as a multicultural union point and knowledge sharing center, creating a whole new land nicknamed as ‘The Capital’. This place is being built, adapted and shared by many creatures and civilization kinds who want to work all together, bringing a site to help the surface explorers and warriors.
+
+<b>Gameplay philosophy</b>
+
+Most areas of this place are free from player damage and movement speed has been increased a bit. The Capital allocates a secure environment for everyone, making it a non-hostile place. However, players can experience secondary game modes without leaving the Capital - a PvP mode is available at the ‘combat arena’ for example. Secondary modes are available for everyone who wants to access, these modes don't feature any scoring or timing systems. Freedom for everyone.
+
+<b>Solving common wrong practices</b>
+
+Floating texts and holograms distracts players, takes away the immersion and saturates the scenery. This place advocates for a better navigation design, from 3D space to interfaces. Players can reach specific places by moving around or selecting a destination at the server menu. Gamemodes are also accessible from both world places and menus.
+
+Structures design avoids "forced brutalism" - extremely huge decorative buildings without purpose nor interiors. This world features plenty of unique decorative buildings for players to remember specific locations. The building's scale is not unnecessarily huge to make traveling easy and not tedious.
+
+<hr>
+
+* #### Accessibility
+
+Supported languages: English · Spanish
+
+<hr>
+
+* #### Mods
 
 Everything shown here have been made using Hytale in-game modding tools. No plugins. No third-party mods. A stable environment is primordial - the server does not rely on content outside the box, this way we have full control on updates over time, making custom changes needed and avoid possible future incompatibilities.
-
-Mods:
 
 * <b>HR Creator HUB</b> (mother mod) This private modpack contains the majority of server custom content: Instances, WorldGen, NPCs, environments, items, effects and other essential content for the server to work. This mod also controls every custom modpack dependencies.
 
