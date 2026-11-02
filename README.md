@@ -35,9 +35,11 @@ The main item currency that can be earned from [Events](#gamemodes) and completi
 
 * #### Gamemodes and Events
 
-Themed content with unique mechanics (exploration, puzzles, PvP, dungeons). Some stays accessible anytime and others are available during a date period only (e.g. Halloween, Winter Holiday). Players can get access to these through specific locations at [The Capital](#the_capital) or crafting Portal Keys.
+Themed content with unique mechanics (exploration, puzzles, PvP, dungeons). Some stays accessible anytime and others are available during a date period only (e.g. Halloween, Winter Holiday). Players can get access to these through specific locations at [The Capital](#the_capital) or crafting an 'Event Portal Key'.
 
-Some time-limited events are planned to be perpetual - these events will stay accessible if a player meets the requirements: e.g. a player who kept an Event Portal Key will be able to access after the event end date.
+<b>Open access to limited-time events:</b>
+
+Some time-limited events are planned to be perpetual - these events will stay accessible if a player meets the requirements: e.g. a player who kept an 'Event Portal Key' will be able to access after the event end date.
 
 <div align="center">
   
@@ -64,7 +66,7 @@ Objectives that players can complete to earn rewards from both generic activitie
 
 * #### World Events
 
-Dynamic events occurring in different worlds to bring extra rewards and action to the players adventure. These events runs taking into count nearby players and completion is optional.
+Dynamic events occurring in different worlds to bring extra rewards and action to the players adventure. These events runs taking into count world and nearby players and they are completely optional.
 
 <hr>
 
@@ -88,6 +90,15 @@ Compatible weapons can be imbued in Void to boost original weapon damage and sta
 
 * #### Runes and Abilities
 (WIP)
+
+<hr>
+
+<a id="food"></a>
+<img src="Imgs/Food.png"/>
+
+* #### Food
+
+Custom food and recipes to bring the player custom and unique status effects.
 
 <hr>
 
