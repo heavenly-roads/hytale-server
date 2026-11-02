@@ -79,7 +79,7 @@ Most of custom weapons brings unique status effects to make combat even more int
 
 Weapons are designed to bring players extra combat mechanics without the need to modify their custom builds but also being balanced for both server and vanilla content.
 
-* Void-imbued weapons
+<b>Void-imbued weapons</b> (WIP)
 
 Compatible weapons can be imbued in Void to boost original weapon damage and status effect. No durability loss upon death. A new Void-related status effect is added. Void-imbued weapons cannot be repaired, so players will require to craft a new one after the durability reaches zero.
 
@@ -89,6 +89,7 @@ Compatible weapons can be imbued in Void to boost original weapon damage and sta
 <img src="Imgs/Rune.png"/>
 
 * #### Runes and Abilities
+
 (WIP)
 
 <hr>
@@ -100,10 +101,20 @@ Compatible weapons can be imbued in Void to boost original weapon damage and sta
 
 Custom food and recipes to bring the player custom and unique status effects.
 
+(WIP)
+
 <hr>
 
 # Guide: technical
 
 Supported languages: English, Spanish.
 
-(WIP)
+Everything shown here have been made using Hytale in-game modding tools. No plugins. No third-party mods. A stable environment is primordial - the server does not rely on content outside the box, this way we have full control on updates over time, making custom changes needed and avoid possible future incompatibilities.
+
+Mods:
+
+* <b>HR Creator HUB</b> (mother mod) This private modpack contains the majority of server custom content: Instances, WorldGen, NPCs, environments, items, effects and other essential content for the server to work. This mod also controls every custom modpack dependencies.
+
+* <b>[HR Core Creator](https://www.curseforge.com/hytale/mods/hr-core-creator)</b>
+
+* <b>[HR Windmills](https://www.curseforge.com/hytale/mods/hr-windmills)</b>
