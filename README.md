@@ -1,6 +1,6 @@
 # Guide
 
-Server custom content information. Some parts of the content shown here are under development and are subject change.
+Server custom content information. Some parts of the content shown here are under development and are subject change. Server content does not offer everything show here for now.
 
 ## Introduction
 
