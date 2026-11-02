@@ -106,7 +106,8 @@ Custom food and recipes to bring the player custom and unique status effects.
 # Advanced Guide
 
 <a id="the_capital_technical"></a>
-## The Capital: Introduction
+## The Capital
+### Introduction
 
 A huge aerial landscape cluster formed by different floating islands which contains huge structures, towns and open lands. Its purpose is to work as an all-in-one server spawn: it is not designed to be a hall between game modes and world instances but to offer a centralized place for the entire server where players can explore, exchange items, chill, chat or relax after an adventure. This world offers a space with different themed areas and districts which includes modes selection, activities, stores, minigames, roleplay spaces and much more.
 
@@ -114,41 +115,41 @@ A huge aerial landscape cluster formed by different floating islands which conta
 <img height="560px" src="Imgs/Thumbnail_TheCapital.png"/>
 </div>
 
-## The Capital: Technical
+### Technical design
 
-### Aerial islands cluster
+#### Aerial islands cluster
 
 Taking advantage of verticality for better navigation and POIs distribution, every place is handcrafted, detailed, modular and easy to modify and expand.
 
-### Lore
+#### Lore
 
 Extracted from their original worlds, these terrain fragments were conjoined at the center of the Skylands region. It is evolving by the purpose to serve as a multicultural union point and knowledge sharing center, creating a whole new land nicknamed as ‘The Capital’. This place is being built, adapted and shared by many creatures and civilization kinds who want to work all together, bringing a site to help the surface explorers and warriors.
 
-### Gameplay philosophy
+#### Gameplay philosophy
 
 Most areas of this place are free from player damage and movement speed has been increased a bit. The Capital allocates a secure environment for everyone, making it a non-hostile place. However, players can experience secondary game modes without leaving the Capital - a PvP mode is available at the ‘combat arena’ for example. Secondary modes are available for everyone who wants to access, these modes don't feature any scoring or timing systems. Freedom for everyone.
 
-### Solving common wrong practices
+#### Solving common wrong practices
 
 Floating texts and holograms distracts players, takes away the immersion and saturates the scenery. This place advocates for a better navigation design, from 3D space to interfaces. Players can reach specific places by moving around or selecting a destination at the server menu. Gamemodes are also accessible from both world places and menus.
 
-## The Capital: Navigation
+### Navigation
 
 Structures design avoids "forced brutalism" - extremely huge decorative buildings without purpose nor interiors. This world features plenty of unique decorative buildings for players to remember specific locations. The building's scale is not unnecessarily huge to make traveling easy and not tedious.
 
-### Visual design
+#### Visual design
 
 Locations are designed following unique styles, making them easy to recognize and bring a general idea about the topics the players will find at them.
 
-### Navigation nodes
+#### Navigation nodes
 
 Pathways are connected to small squares and open areas, we call these 'navigation nodes', which are strategically located for the players to see both near and far points of interest.
 
-### Tree-alike distribution routes
+#### Tree-alike distribution routes
 
 The spawn location is at the world's "tree trunk", pathways are gradually distributed as "branches". This way the player learns and remembers each place.
 
-### Town center as central POI
+#### Town center as central POI
 
 The future ‘town center’ will serve as the main reference even from far away, being the real world center.
 
