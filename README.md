@@ -37,8 +37,10 @@ The main item currency that can be earned from [Events](#gamemodes) and completi
 
 Themed content with unique mechanics (exploration, puzzles, PvP, dungeons). Some stays accessible anytime and others are available during a date period only (e.g. Halloween, Winter Holiday). Players can get access to these through specific locations at [The Capital](#the_capital) or crafting Portal Keys.
 
-<div align="center">
+Some time-limited events are planned to be perpetual - these events will stay accessible if a player meets the requirements: e.g. a player who kept an Event Portal Key will be able to access after the event end date.
 
+<div align="center">
+  
 [<img height="150px" src="Imgs/Thumbnail_Event_Halloween.png"/>](https://youtu.be/pUv9GnYA6K4)
   
 <i>Click on the images to watch an event showcase video.</i>
