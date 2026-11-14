@@ -53,7 +53,7 @@ Some time-limited events are planned to be perpetual - these events will stay ac
 ## Advanced content
 
 <a id="characters"></a>
-<img src="Imgs/NPCs.png"/>
+<img src="Imgs/Characters.png"/>
 
 * #### Characters
 
