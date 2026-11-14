@@ -52,7 +52,16 @@ Some time-limited events are planned to be perpetual - these events will stay ac
 
 ## Advanced content
 
-<a id="item_coins"></a>
+<a id="npcs"></a>
+<img src="Imgs/NPCs.png"/>
+
+* #### Unique Characters
+
+Custom NPCs and unique characters for detailed worldbuilding and storytelling.
+
+<hr>
+
+<a id="tasks"></a>
 <img src="Imgs/Task.png"/>
 
 * #### Tasks
