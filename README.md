@@ -52,10 +52,10 @@ Some time-limited events are planned to be perpetual - these events will stay ac
 
 ## Advanced content
 
-<a id="npcs"></a>
+<a id="characters"></a>
 <img src="Imgs/NPCs.png"/>
 
-* #### Unique Characters
+* #### Characters
 
 Custom NPCs and unique characters for detailed worldbuilding and storytelling.
 <div align="center">
