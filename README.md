@@ -18,6 +18,10 @@ Server offers both vanilla experience (Adventure, Exploration) and custom conten
 A world that works as a lobby and meeting point, it contains most of the server custom content. [Coins](#item_coins) can be invested here for the players to obtain elements, decorations, weapons and more content. There are themed areas and local micro-events, this place grows as the server evolves adding new locations and content.
 
 [The Capital: technical information](#the_capital_technical)
+
+<div align="center">
+<img height="560px" src="Imgs/Thumbnail_TheCapital.png"/>
+</div>
   
 <hr>
 
@@ -124,10 +128,6 @@ Custom food and recipes to bring the player custom and unique status effects.
 ### Introduction
 
 A huge aerial landscape cluster formed by different floating islands which contains huge structures, towns and open lands. Its purpose is to work as an all-in-one server spawn: it is not designed to be a hall between game modes and world instances but to offer a centralized place for the entire server where players can explore, exchange items, chill, chat or relax after an adventure. This world offers a space with different themed areas and districts which includes modes selection, activities, stores, minigames, roleplay spaces and much more.
-
-<div align="center">
-<img height="560px" src="Imgs/Thumbnail_TheCapital.png"/>
-</div>
 
 ### Technical design
 
