@@ -57,7 +57,7 @@ Some time-limited events are planned to be perpetual - these events will stay ac
 
 * #### Characters
 
-Custom NPCs and unique characters for detailed worldbuilding and storytelling.
+Custom NPCs and unique characters for detailed worldbuilding and storytelling. Some offers trading or [Tasks](#tasks) for the players to complete.
 <div align="center">
 <img width="1100px" src="Imgs/NPCs_Gallery_01.png"/>
 </div>
