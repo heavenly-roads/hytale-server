@@ -13,7 +13,7 @@ Server offers both vanilla experience (Adventure, Exploration) and custom conten
 <a id="the_capital"></a>
 <img src="Imgs/Capital.png"/>
 
-* #### The Capital
+* ### The Capital
 
 A world that works as a lobby and meeting point, it contains most of the server custom content. [Coins](#item_coins) can be invested here for the players to obtain elements, decorations, weapons and more content. There are themed areas and local micro-events, this place grows as the server evolves adding new locations and content.
 
@@ -28,7 +28,7 @@ A world that works as a lobby and meeting point, it contains most of the server 
 <a id="item_coins"></a>
 <img src="Imgs/Currency_Coin.png"/>
 
-* #### Coins
+* ### Coins
 
 The main item currency that can be earned from [Events](#gamemodes) and completing [Tasks](#tasks). These can be invested in [The Capital](#the_capital) stores and craft stations to get elements, items, resources and other custom content. Coins works as any other item, a huge stack amount is admited so best practice for players is to keep these inside their backpack.
 
@@ -37,11 +37,11 @@ The main item currency that can be earned from [Events](#gamemodes) and completi
 <a id="gamemodes"></a>
 <img src="Imgs/Portal_Key.png"/>
 
-* #### Gamemodes and Events
+* ### Gamemodes and Events
 
 Themed content with unique mechanics (exploration, puzzles, PvP, dungeons). Some stays accessible anytime and others are available during a date period only (e.g. Halloween, Winter Holiday). Players can get access to these through specific locations at [The Capital](#the_capital) or crafting an 'Event Portal Key'.
 
-<b>Open access to limited-time events:</b>
+#### Open access to limited-time events
 
 Some time-limited events are planned to be perpetual - these events will stay accessible if a player meets the requirements: e.g. a player who kept an 'Event Portal Key' will be able to access after the event end date.
 
@@ -59,7 +59,7 @@ Some time-limited events are planned to be perpetual - these events will stay ac
 <a id="characters"></a>
 <img src="Imgs/Characters.png"/>
 
-* #### Characters
+* ### Characters
 
 Custom NPCs and unique characters for detailed worldbuilding and storytelling. Some offers trading or [Tasks](#tasks) for the players to complete.
 <div align="center">
@@ -71,7 +71,7 @@ Custom NPCs and unique characters for detailed worldbuilding and storytelling. S
 <a id="tasks"></a>
 <img src="Imgs/Task.png"/>
 
-* #### Tasks
+* ### Tasks
 
 Objectives that players can complete to earn rewards from both generic activities or [Events](#gamemodes) related. Tasks works as items for now.
 
@@ -80,7 +80,7 @@ Objectives that players can complete to earn rewards from both generic activitie
 <a id="world_events"></a>
 <img src="Imgs/World_Events.png"/>
 
-* #### World Events
+* ### World Events
 
 Dynamic events occurring in different worlds to bring extra rewards and action to the players adventure. These events runs taking into count world and nearby players and they are completely optional.
 
@@ -89,13 +89,13 @@ Dynamic events occurring in different worlds to bring extra rewards and action t
 <a id="weapons"></a>
 <img src="Imgs/Weapon.png"/>
 
-* #### Weapons
+* ### Weapons
 
 Most of custom weapons brings unique status effects to make combat even more interesting without relying on Mana and Runes equipment (e.g. a modified sword with attached batteries can electrocute the enemy target). Weapons can be obtained at [The Capital](#the_capital) or as rewards from different sources.
 
 Weapons are designed to bring players extra combat mechanics without the need to modify their custom builds but also being balanced for both server and vanilla content.
 
-<b>Void-imbued weapons</b> (WIP)
+#### Void-imbued weapons (WIP)
 
 Compatible weapons can be imbued in Void to boost original weapon damage and status effect. No durability loss upon death. A new Void-related status effect is added. Void-imbued weapons cannot be repaired, so players will require to craft a new one after the durability reaches zero.
 
@@ -104,7 +104,7 @@ Compatible weapons can be imbued in Void to boost original weapon damage and sta
 <a id="runes"></a>
 <img src="Imgs/Rune.png"/>
 
-* #### Runes and Abilities
+* ### Runes and Abilities
 
 (WIP)
 
@@ -113,7 +113,7 @@ Compatible weapons can be imbued in Void to boost original weapon damage and sta
 <a id="food"></a>
 <img src="Imgs/Food.png"/>
 
-* #### Food
+* ### Food
 
 Custom food and recipes to bring the player custom and unique status effects.
 
