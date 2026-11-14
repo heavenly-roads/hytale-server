@@ -58,6 +58,9 @@ Some time-limited events are planned to be perpetual - these events will stay ac
 * #### Unique Characters
 
 Custom NPCs and unique characters for detailed worldbuilding and storytelling.
+<div align="center">
+<img width="1100px" src="Imgs/NPCs_Gallery_01.png"/>
+</div>
 
 <hr>
 
